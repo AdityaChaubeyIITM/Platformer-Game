@@ -1,0 +1,19 @@
+<libraries>
+  <library
+      name="C:\Users\Aditya Chaubey\vfuoria\Game\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="C:\Users\Aditya Chaubey\vfuoria\Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\5ccbaf5a9f48b6c548a430912488447d\transformed\out\jars\classes.jar;C:\Users\Aditya Chaubey\vfuoria\Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\5ccbaf5a9f48b6c548a430912488447d\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="C:\Users\Aditya Chaubey\vfuoria\Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\5ccbaf5a9f48b6c548a430912488447d\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\Users\Aditya Chaubey\vfuoria\Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Users\Aditya Chaubey\vfuoria\Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Users\Aditya Chaubey\vfuoria\Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+</libraries>
